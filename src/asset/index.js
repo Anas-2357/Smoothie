@@ -1,4 +1,3 @@
-
 const Smoothe1 = require("@/asset/Smoothe-1.png");
 const Smoothe2 = require("@/asset/Smoothe-2.png");
 const Smoothe3 = require("@/asset/Smoothe-3.png");
@@ -22,31 +21,29 @@ const Sugar = require("@/asset/Sugar.svg");
 const Protein = require("@/asset/Protein.svg");
 const Fiber = require("@/asset/Fiber.svg");
 
-
-
 const images = {
-  Smoothe1,
-  Smoothe2,
-  Smoothe3,
-  Smoothe4,
-  Star,
-  Banana1,
-  Banana2,
-  Banana3,
-  Berry1,
-  Berry2,
-  Chocolate1,
-  Chocolate2,
-  Chocolate3,
-  KaleLeaf,
-  Mango1,
-  Mango2,
-  Mango3,
-  Strawberry,
-  Watermelon,
-  Sugar,
-  Protein,
-  Fiber,
+    Smoothe1,
+    Smoothe2,
+    Smoothe3,
+    Smoothe4,
+    Star,
+    Banana1,
+    Banana2,
+    Banana3,
+    Berry1,
+    Berry2,
+    Chocolate1,
+    Chocolate2,
+    Chocolate3,
+    KaleLeaf,
+    Mango1,
+    Mango2,
+    Mango3,
+    Strawberry,
+    Watermelon,
+    Sugar,
+    Protein,
+    Fiber,
 };
 
 export default images;
